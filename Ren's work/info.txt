@@ -1,0 +1,27 @@
+http://mage22.softdy.com/admin/
+admin/admin123
+
+IP: 18.232.18.167
+user: partner
+/home/partner/www/magento22
+ssh
+File ppk
+
+AKENEO (CentOS 7)
+IPv4	159.69.81.239
+IPv6	2a01:4f8:1c1c:2d70::/64
+User	root
+Password	Amkf@#@!o
+
+PCON   (CentOS 7)
+IPv4	159.69.1.181
+IPv6	2a01:4f8:1c0c:56cf::/64
+User	root
+new pass: Ok#@$hsd172
+
+new task:
+Also I currently running into an issue with startupwebshop
+check this quick video ive made. http://nimb.ws/lEbxUH
+the shopping cart doesnt work, it doesn't work properly. no varnish, just built in cache
+Send me a quote also how to fix this :D
+
