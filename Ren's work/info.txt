@@ -12,6 +12,7 @@ IPv4	159.69.81.239
 IPv6	2a01:4f8:1c1c:2d70::/64
 User	root
 Password	Amkf@#@!o
+MySQL: akeneo / Ampe@#97rt!
 
 PCON   (CentOS 7)
 IPv4	159.69.1.181
@@ -25,3 +26,12 @@ check this quick video ive made. http://nimb.ws/lEbxUH
 the shopping cart doesnt work, it doesn't work properly. no varnish, just built in cache
 Send me a quote also how to fix this :D
 
+Install PHP 7 on CentOS 7
+yum install http://rpms.remirepo.net/enterprise/remi-release-7.rpm
+
+yum install yum-utils
+
+yum-config-manager --enable remi-php70
+yum-config-manager --disable remi-php70
+
+yum install php php-mcrypt php-cli php-gd php-curl php-mysql php-ldap php-zip php-fileinfo
